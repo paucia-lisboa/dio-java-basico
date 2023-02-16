@@ -1,3 +1,4 @@
+package operadores;
 public class OperadoresLogicos {
     public static void main(String[] args) {
         boolean condicao1=true;
